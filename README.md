@@ -67,4 +67,5 @@ endmodule
 
 
 **Result:**
+ 
  program implement half-adder and half-subtractor circuit sucessfully executed.
