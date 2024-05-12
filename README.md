@@ -49,6 +49,8 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+
+
 module halfaddsub(a,b,sum,carry,D,Bo);
 input a,b;
 output sum,carry,D,Bo; 
