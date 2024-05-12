@@ -60,7 +60,10 @@ xor(D,a,b);
 and(Bo,abar,b);
 endmodule
 
+
  **RTL realization**
+
+ 
  ![Screenshot (49)](https://github.com/HemapriyaOfficial/HALF_ADDER_SUBTRACTOR/assets/147114275/75f53bad-0886-4dda-a1cd-265d143d73d2)
  
 **Output**
